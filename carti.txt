@@ -2,9 +2,6 @@
   "song": "Script Kiddie",
   "artist": "Playboi Carti (Style)",
   "lyrics": [
-    "Huh? What? What?",
-    "Yeah, yeah, yeah (Slatt!)",
-    "I’m in the game, no cap (What?)",
     "Lua runnin’ fast, no lag (Woah)",
     "Hop in the server, I’m breakin’ the code (What?)",
     "ESP on, I can see through the road (Yeah!)",
