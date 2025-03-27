@@ -1,0 +1,40 @@
+{
+  "title": "Script Kiddie",
+  "intro": [
+    "Huh? What? What?",
+    "Yeah, yeah, yeah (Slatt!)",
+    "I’m in the game, no cap (What?)",
+    "Lua runnin’ fast, no lag (Woah)"
+  ],
+  "verse_1": [
+    "Hop in the server, I’m breakin’ the code (What?)",
+    "ESP on, I can see through the road (Yeah!)",
+    "Flyin’ through walls like I’m ghostin’ the mode (Skrrt!)",
+    "Infinite cash, man, I’m doin’ the most (Slatt!)"
+  ],
+  "chorus": [
+    "Exploit, exploit, yeah, I tweak (Tweak!)",
+    "Got the script, yeah, I got the cheat (Cheat!)",
+    "Godmode on, I can’t see defeat (Nope!)",
+    "Ban wave comin’, but I’m elite (Huh?)"
+  ],
+  "verse_2": [
+    "Teleport hop, now I’m up in ya base (Brrt!)",
+    "Auto farm, yeah, I’m winnin’ the race (Woah)",
+    "Lua injected, no time to waste (What?)",
+    "Admin commands, yeah, I’m switchin’ ya place (Gone!)"
+  ],
+  "bridge": [
+    "Turn off anti-cheat, I got no fear (Nope!)",
+    "Mod in the chat, but I disappear (Skrrt!)",
+    "Stealin’ ya pets, yeah, they outta here (Gone!)",
+    "30K Robux just this year (Bands!)"
+  ],
+  "outro": [
+    "What? What? (What?)",
+    "Yeah, I’m gone (Gone!)",
+    "IP spoofed, they won’t know (Slatt!)",
+    "New account, yeah, we back (Huh?)",
+    "Lua runnin’ fast, no lag (What? Woah)"
+  ]
+}
